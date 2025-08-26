@@ -1,0 +1,4 @@
+"./lab2(1).obj"
+"./tm4c1232h6pm_startup_ccs.obj"
+"../tm4c1232h6pm.cmd"
+-llibc.a
